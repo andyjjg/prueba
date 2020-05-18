@@ -1,0 +1,62 @@
+Medios inalambricos y medios opticos:
+
+Medios de fibra optica: se usa para trasmitir señales
+digitales de datos en forma de pulsos modulados de 
+luz. estan conformador por 1 o mas hilos de fibra de hilo
+fabricados en transparente y flexible, empleado para la 
+transmision de informacion a grandes distancias.
+
+Tiene:
+Nucleo,Hilos de fibra, Buffer y cladding, mylar y capas
+, armadura, recubirmiento exterior.
+
+Nucleo-Core: Es el centro de la fibra y esta fabricado
+con vidrio.
+
+Cladding:Recubre al nucleo y ayuda a mantener la luz
+dentro de este. 
+
+Buffer: Es una cubierta de plastico que le da a la 
+fibra una rigidez adicional.
+
+Clasificacion de medios de fibra optica:
+
+la info. viaja por la fibra en forma de pulsos de luz.
+
+Tipos: Multimodo y monomodo.
+
+Monomodo: consta de un nucleo muy pequeño y emeplea
+tecnologia laser para enviar un unico haz de luz por el
+cabñe, se usa en conexiones de larga distancia para
+cientos de kilometros, como aplicaciones de telefono
+de larga distancia.
+
+Multimodo: Consta de un nucleo mas grande y utiliza 
+emisores led para enviar pulsos de luz. la luz de un led
+ingresa a la fibra multimodo en diferentes angulos
+es de usos comun en las redes lan, puede proporcionar velocidades
+de transmision de hasta 10Gb/s a taraves de longitudes de
+enlace de hasta 550m.
+
+Fundametos de fibra optica:
+
+Se basan en la leyes de reflexion y la refraccion
+de la luz para ello se tiene en cuenta que cuando
+un rayo de luz incide sobre la superficie de separacion
+de dos medios transparentes disitintos, párter de
+la luz resulta reflejada permaneciendo en el primer medio
+y parte de laluz refractada, penetrando el segundo medio.
+
+
+Reflexion:
+consiste en el cambio de direccion de una onda cuando chcoca
+contra un obstaculo, la onda que se dirige hacie el 
+obstaculo se denomina onada incidente mientras la que 
+se aleja despues se demonima onda reflejada.
+
+Refraccion:
+
+Consiste en el cambio de direccion que experimenta un
+movimiento ondulatoria, cando pasa de un medio material
+a otro.
+
